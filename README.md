@@ -130,6 +130,3 @@ Data Analyst | SQL | Excel | Power BI | Python
 
 LinkedIn:
 https://linkedin.com/in/pratik-shere-2ab04b368
-
-GitHub:
-https://github.com/Pratik0781
