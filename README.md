@@ -117,8 +117,8 @@ Dataset includes:
 ---
 
 ## Project Preview
+<img width="1037" height="677" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/bd0b879d-4678-45fb-9736-a63cec52a409" />
 
-(Add dashboard screenshot here)
 
 ---
 
