@@ -1,105 +1,38 @@
 # 📊 iPhone Sales Dashboard | Microsoft Excel
 
-An interactive Microsoft Excel dashboard built using Pivot Tables, Pivot Charts, Slicers, KPIs, and advanced Excel features to analyze iPhone sales performance.
-
----
-
 ## Project Overview
 
-This dashboard helps analyze sales performance across multiple business dimensions such as:
+This project is an interactive **iPhone Sales Dashboard** developed using **Microsoft Excel** and **Advanced Excel** techniques. The dashboard analyzes iPhone sales data to provide meaningful business insights through dynamic reports and visualizations. It helps monitor sales performance, revenue, profitability, customer trends, and product performance with an interactive and user-friendly interface.
 
-- Revenue
-- Profit
-- Profit Margin
-- Units Sold
-- Product Performance
-- Country-wise Sales
-- Sales by Region
+---
+
+## Key Features
+
+- Interactive KPI Cards
+- Sales & Revenue Analysis
+- Profit & Profit Margin Analysis
+- Units Sold Analysis
+- Product-wise Performance
+- Country & Region-wise Sales
 - Storage Variant Analysis
-- Monthly Trends
-- Financial Year Comparison
+- Monthly & Financial Year Trends
+- Dynamic Pivot Tables & Pivot Charts
+- Slicers for Interactive Filtering
+- Conditional Formatting
+- VBA Automation
 
 ---
 
-## Dataset
+## Tools & Technologies
 
-- 50,000+ Sales Records
-- 28 Columns
-- Realistic Business Dataset
-
-Dataset includes:
-
-- Order Date
-- Product Model
-- Storage
-- Color
-- Country
-- Region
-- Customer Age
-- Revenue
-- Profit
-- Units Sold
-- Sales Channel
-- Financial Year
-- Month
-- Weekday / Weekend
-- Payment Method
-
----
-
-## Dashboard Features
-
-✔ KPI Cards
-
-✔ Revenue Analysis
-
-✔ Profit Analysis
-
-✔ Profit Margin
-
-✔ Units Sold
-
-✔ Financial Year Comparison
-
-✔ Country-wise Sales
-
-✔ Monthly Sales Trend
-
-✔ Product-wise Performance
-
-✔ Storage Variant Analysis
-
-✔ Interactive Slicers
-
-✔ Dynamic Pivot Charts
-
-✔ Conditional Formatting
-
----
-
-## Excel Features Used
-
+- Microsoft Excel
+- Advanced Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Timeline
-- GETPIVOTDATA
-- IF
-- SUMIFS
-- COUNTIFS
-- Custom Number Formatting
-- Conditional Formatting
-- Dashboard Design
-- VBA (Macro Enabled Workbook)
-
----
-
-## Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Advanced Excel
 - VBA
+- Data Analysis
+- Business Intelligence
 - Data Visualization
 
 ---
@@ -107,18 +40,27 @@ Dataset includes:
 ## Skills Demonstrated
 
 - Data Cleaning
-- Data Analysis
+- Data Transformation
+- Data Visualization
 - Dashboard Development
-- Business Intelligence
-- KPI Reporting
+- Business Reporting
+- KPI Analysis
+- Sales Analytics
 - Interactive Reporting
-- Excel Automation
+- Advanced Excel
 
 ---
 
 ## Project Preview
 <img width="1037" height="677" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/bd0b879d-4678-45fb-9736-a63cec52a409" />
+---
 
+## Dataset
+
+- 50,000+ Sales Records
+- 28 Business Attributes
+- Sales, Revenue, Profit, Product, Customer & Regional Data
+- Designed for Data Analysis and Dashboard Development
 
 ---
 
@@ -126,7 +68,6 @@ Dataset includes:
 
 **Pratik Shere**
 
-Data Analyst | SQL | Excel | Power BI | Python
+**Data Analyst | Excel | SQL | Power BI | Python**
 
-LinkedIn:
-https://linkedin.com/in/pratik-shere-2ab04b368
+LinkedIn: https://linkedin.com/in/pratik-shere-2ab04b368
